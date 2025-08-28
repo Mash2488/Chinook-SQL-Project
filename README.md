@@ -25,11 +25,4 @@
 - Sparse segments can overstate totals (e.g., a country with very few high-spend customers)
 - No return/refund or campaign attribution tables
 
-## Next Steps
-- Add visuals (Tableau/Excel) for:
-  - Genre mix by market
-  - Track vs. album share over time
-  - Top artists revenue leaderboard
-  - US state revenue share map
-- Enhance purchase classification (e.g., consider baskets that are “mostly album” vs. “single-track”).
-- Add unit economics (if price or margin detail is added later).
+
